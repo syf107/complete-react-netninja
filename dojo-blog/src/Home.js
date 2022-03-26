@@ -1,6 +1,5 @@
 import BlogList from "./BlogList";
 import useFetch from "./useFetch";
-import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 
 const Home = () => {
   const {
